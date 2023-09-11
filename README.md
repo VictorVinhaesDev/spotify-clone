@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Spotify Clone
 
-## Getting Started
 
-First, run the development server:
+### TypeScript / SupaBase(SQL) / Stripe / TailWind
+#### A music website where you can listen to music, upload songs to the website, save your favorite songs. Has a monthly payment system.
+//Um site de música onde voce pode ouvir músicas, subir músicas para o site, salvar suas musicas favoritas. Tem um sistema de pagamento mensal se quiser fazer algumas regalias.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Overview Porject
+//visão geral do projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://github.com/victorbrunacio/spotify-clone/assets/93022107/3b21c50a-c83c-4125-945f-62b6bff568ee
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Payment Subscription 
+### do you need pay a subscription to be a premium user for upload songs on website and listen songs
+método de pagamento, você precisa pagar uma assinatura para poder subir músicas no site e ouvi-las
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://github.com/victorbrunacio/spotify-clone/assets/93022107/176f5b00-c5d6-445d-b9b0-7e16b5a3ac3a
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Responsive
+// responsividade
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+https://github.com/victorbrunacio/spotify-clone/assets/93022107/5a211bdf-ac99-4feb-bc43-567536040192
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Create Account
+//criar conta
+
+
+
+https://github.com/victorbrunacio/spotify-clone/assets/93022107/b1767bb5-da5e-44aa-aeef-5b0c742e8e8f
+
+## Image site
+
+
+![spotifyclone](https://github.com/victorbrunacio/spotify-clone/assets/93022107/497d5966-4f9b-44cf-993d-23bdeb00284e)
