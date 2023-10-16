@@ -3,7 +3,7 @@ https://spotify-clone-musics.vercel.app/
 
 ### TypeScript / SupaBase(SQL) / Stripe / TailWind
 #### A music website where you can listen to music, upload songs to the website, save your favorite songs. Has a monthly payment system.
-//Um site de música onde voce pode ouvir músicas, subir músicas para o site, salvar suas musicas favoritas. Tem um sistema de pagamento mensal se quiser fazer algumas regalias.
+//Um site de música onde voce pode ouvir músicas, subir músicas para o site, salvar suas musicas favoritas. Tem um sistema de pagamento mensal se quiser proporcionar algumas vantagens aos usuários pagantes.
 
 ## Overview Porject
 //visão geral do projeto
